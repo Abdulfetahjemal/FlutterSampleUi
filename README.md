@@ -1,5 +1,7 @@
 # Tipple Slider Demo
 ![](./Demo.gif) 
+
+
 1 . Clone Repo 
 2 . Flutter pub get ['Download Packages']
   
